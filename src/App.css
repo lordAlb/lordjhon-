@@ -709,6 +709,6 @@ input[type="checkbox"] {
 .logo-header{
   height: 50px;
   width: 50px;
-  position: absolute;
   top: 20px;
+  z-index: -1;
 }

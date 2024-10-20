@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "I have learned front-end in my 1st year college to 3rd year college so i got idea about this."
+      "description": "Front-end skills involve HTML, CSS, JavaScript, and responsive design."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "I also have a skills in back-end because I read documentation about this topic."
+      "description": "Back-end skills involve server-side programming, databases, and APIs."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "I learned this in my subject I also have a skills on this but I can make a simple design."
+      "description": "UI/UX skills involve user research, wireframes, and intuitive design."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
-      "title": "Web Development",
-      "description": "I am learning web development to build and functional websites (HTML, CSS, and JavaScript) "
+      "title": "Web Developer",
+      "description": "Web developer skills involve coding, databases, and version control."
     }
   ],
   "portfolio": [

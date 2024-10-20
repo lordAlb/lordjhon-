@@ -9,8 +9,8 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Im Lord Jhon Alba student of Western Institute of Technology. A 3rd year college
-            that can copy code and paste code. I have learn react.js in this semester so that 
+            Im Lord Jhon Alba student of Western Institute of Technology.
+            I have learn react.js in this semester so that 
             I can do more project like this.
           </p>
           <p className="hero--section-description">

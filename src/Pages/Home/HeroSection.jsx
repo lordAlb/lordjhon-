@@ -5,11 +5,12 @@ export default function HeroSection() {
         <div className="hero--section--content">
           <p className="section--title">Hi, I'm Lord Jhon</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">IT STUDENT</span>
+            <span className="hero--section-title--color">IT</span>{" "}
+            <br />
+            STUDENT
           </h1>
           <p className="hero--section-description">
-          I have a passion for technology and enjoy learning about programming, web development, and network systems. 
-          In my free time, I like to work on personal projects and stay updated on the latest tech trends. 
+          I have a passion for technology and enjoy learning about programming, web development, and network systems.  
             <br /> I’m excited about the opportunities in the IT field and eager to apply my skills in real-world situations.
           </p>
         </div>
