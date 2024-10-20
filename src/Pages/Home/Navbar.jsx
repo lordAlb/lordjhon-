@@ -35,6 +35,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
+      <img src="./img/LJ.jpg" className="logo-header"/>
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
@@ -96,9 +97,10 @@ function Navbar() {
               smooth={true}
               offset={-70}
               duration={500}
-              to="MySkills"
+              to="mySkills"
               className="navbar--content"
             >
+              Skills
             </Link>
           </li>
         </ul>

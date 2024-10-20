@@ -24,7 +24,9 @@ export default function MyProjects() {
                 fill="currentColor"
               />
             </svg>
-            Visit My GitHub
+
+           <a href="https://github.com/lordAlb" className="link--github">Visit My GitHub</a>
+
           </button>
         </div>
       </div>
