@@ -20,7 +20,7 @@ p {
   --primary: #5e3bee;
   --heading-color: #282938;
   --bg-shade: #f5fcff;
-  --github: #e62872;
+  --github: #4c46d6;
   --darkblue: #1c1e53;
   --black: #000000;
   --white: #ffffff;
@@ -212,7 +212,7 @@ h2 {
   margin-top: 21.333px;
 }
 .hero--section--title {
-  color: var(--heading-color);
+  color: var(--primary);
   font-size: 74.667px;
   font-weight: 700;
   line-height: 90px;
